@@ -1,0 +1,33 @@
+{ "name": "jquery.scrolli",
+  "version": "1.0.0",
+  "description": "A lightweight plugin to add content indicators on veritcally scrolling content.  Usually used to set the top border color if there is content above, and a bottom border color if there is content below.",
+  "keywords": [
+    "jquery",
+    "plugin",
+    "scrolling",
+    "scroll",
+    "indicator"
+  ],
+  "main": "dist/jquery.scrolli.js",
+  "directories": {
+    "test": "test",
+    "dist": "dist"
+  },
+  "scripts": {
+    "test": "google-chrome test/scrolli.html"
+  },
+  "author": "Michael S. Mikowski",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mmikowski/jquery.scrolli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mmikowski/jquery.scrolli/issues"
+  },
+  "homepage": "https://github.com/mmikowski/jquery.scrolli#readme",
+  "dependencies": {},
+  "devDependencies": {}
+  },
+  "maintainers": [ "Michael S. Mikowski <mike.mikowski@gmail.com>" ]
+}
