@@ -27,7 +27,6 @@
   },
   "homepage": "https://github.com/mmikowski/jquery.scrolli#readme",
   "dependencies": {},
-  "devDependencies": {}
-  },
+  "devDependencies": {},
   "maintainers": [ "Michael S. Mikowski <mike.mikowski@gmail.com>" ]
 }
