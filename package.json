@@ -1,5 +1,5 @@
 { "name": "jquery.scrolli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight plugin to add content indicators on veritcally scrolling content.  Usually used to set the top border color if there is content above, and a bottom border color if there is content below.",
   "keywords": [
     "jquery",
